@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.13-1922",
+  "version": "2026.10.13-1943",
   "extension": "0.6.0",
   "files": {
     "le_ko_letrans.json": {
@@ -11,8 +11,8 @@
       "bytes": 6367672
     },
     "rules.json": {
-      "sha256": "40ff6e2a48958a5dc1998883e267bd8eca03941f66ba5bd3745d03aa7e2e9340",
-      "bytes": 9200
+      "sha256": "140c9efaf27d6377775f0af8e9b2c1a6f0be7dea9f110475f5adff4f8a3d3a8d",
+      "bytes": 9437
     }
   }
 }
