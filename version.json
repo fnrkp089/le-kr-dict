@@ -1,14 +1,14 @@
 {
-  "version": "2026.10.22-0639",
+  "version": "2026.11.06-0738",
   "extension": "0.6.4",
   "files": {
     "le_ko_letrans.json": {
-      "sha256": "d6d7ef7073611f1f2fca97ac3f58eda2ab1f9b76ade2be5975b99b0bcaf59b9e",
-      "bytes": 6472978
+      "sha256": "5b76a40bbaf2012818b0c61fcc57b460c084d5da542aeddf7d2652a3aefe9281",
+      "bytes": 6472543
     },
     "le_ko_official.json": {
-      "sha256": "889f640fd7798135436cc269db779bf484285895ba483cfbc158326e563775b8",
-      "bytes": 6472005
+      "sha256": "d9d4a969c73f2474807108515204fd27542ce68ccd3205e8f1191db0f0bc4911",
+      "bytes": 6474554
     },
     "rules.json": {
       "sha256": "c4b91cce1219c8926822dda15b23a840637b01047bf62026476dc10c582751f5",
